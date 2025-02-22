@@ -1,0 +1,15 @@
+/home/wysl/code/rust/app/target/debug/deps/libtarget_lexicon-937cf341cde6e521.rmeta: /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/lib.rs /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/data_model.rs /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/host.rs /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/parse_error.rs /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/targets.rs /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/triple.rs /home/wysl/code/rust/app/target/debug/build/target-lexicon-f4d9bc906c9fda9b/out/host.rs
+
+/home/wysl/code/rust/app/target/debug/deps/libtarget_lexicon-937cf341cde6e521.rlib: /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/lib.rs /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/data_model.rs /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/host.rs /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/parse_error.rs /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/targets.rs /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/triple.rs /home/wysl/code/rust/app/target/debug/build/target-lexicon-f4d9bc906c9fda9b/out/host.rs
+
+/home/wysl/code/rust/app/target/debug/deps/target_lexicon-937cf341cde6e521.d: /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/lib.rs /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/data_model.rs /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/host.rs /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/parse_error.rs /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/targets.rs /home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/triple.rs /home/wysl/code/rust/app/target/debug/build/target-lexicon-f4d9bc906c9fda9b/out/host.rs
+
+/home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/lib.rs:
+/home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/data_model.rs:
+/home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/host.rs:
+/home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/parse_error.rs:
+/home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/targets.rs:
+/home/wysl/.cargo/registry/src/index.crates.io-6f17d22bba15001f/target-lexicon-0.12.16/src/triple.rs:
+/home/wysl/code/rust/app/target/debug/build/target-lexicon-f4d9bc906c9fda9b/out/host.rs:
+
+# env-dep:OUT_DIR=/home/wysl/code/rust/app/target/debug/build/target-lexicon-f4d9bc906c9fda9b/out
