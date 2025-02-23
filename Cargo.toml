@@ -9,9 +9,9 @@ lto = true
 codegen-units = 1
 panic = "abort"
 [dependencies]
-gtk4 = "0.9"
 pcap = "1.2"
 tokio = { version = "1" , features = ["full"] }
 pnet = { version = "0.31.0" , features = ["std"]}
 rayon = "1.7"
-glib = "0.17"
+clap = { version = "4.0" , features = ["derive"]}
+mlua = { version = "0.8" , features = ["lua54"]}

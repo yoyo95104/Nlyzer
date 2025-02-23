@@ -1,1 +1,1 @@
-/home/wysl/code/rust/Nlyzer/target/release/libnlyzer.rlib: /home/wysl/code/rust/Nlyzer/src/lib.rs
+/home/wysl/code/Nlyzer/target/release/libnlyzer.rlib: /home/wysl/code/Nlyzer/src/lib.rs
